@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\delete_element.png",
+        "source": "D:\\appcode\\ZoomView1\\app\\src\\main\\res\\drawable-hdpi\\delete_element.png"
+    },
+    {
+        "merged": "D:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scale.png",
+        "source": "D:\\appcode\\ZoomView1\\app\\src\\main\\res\\drawable-hdpi\\scale.png"
+    },
+    {
+        "merged": "D:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\appcode\\ZoomView1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

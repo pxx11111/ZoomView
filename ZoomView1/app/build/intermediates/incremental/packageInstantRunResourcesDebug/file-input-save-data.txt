@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Fri Mar 03 16:47:30 CST 2017
+2.base=D\:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=D\:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\appcode\\ZoomView1\\app\\build\\intermediates\\assets\\debug\\yqx.txt
+2.set=ANDROID_RESOURCE
+4.base=D\:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=D\:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.base=D\:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\zoom_menu.xml
+4.set=ANDROID_RESOURCE
+6.base=D\:\\appcode\\ZoomView1\\app\\build\\intermediates\\assets\\debug
+1.file=D\:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\base_list_pressed.png
+9.set=ANDROID_RESOURCE
+9.file=D\:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+7.base=D\:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\delete_element.png
+6.set=ASSET
+0.base=D\:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=D\:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\appcode\\ZoomView1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\scale.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\.android\build-cache\f51d91904e5a79c79aa48cc25a6b890874f0fee0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\appcode\ZoomView1\app\build\intermediates\pre-dexed\debug\classes_a351eccb4108230c9e7e7d159c3c08d4352ec82d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\appcode\ZoomView1\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\appcode\ZoomView1\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14_704c0b71d25637f35124a0c5ea6f6a470167dbe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\.android\build-cache\e6ef1e56aadac30bef19ea789637ac46e1386389\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\appcode\ZoomView1\app\build\intermediates\pre-dexed\debug\classes_72814ce41c6bcbe524ff7b9b8ef79cb3f04260f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\.android\build-cache\d5c313595d8fd4c02abf43da84e3f2cd3cd89a26\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\appcode\ZoomView1\app\build\intermediates\pre-dexed\debug\classes_8fd7fcf204920875b7db67a9e5165c81403daecf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\appcode\ZoomView1\app\libs\fastjson-1.1.41.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a244aa752b9e0210d0e50b5c1e11319711ed9290">
+        <dex dex="D:\appcode\ZoomView1\app\build\intermediates\pre-dexed\debug\fastjson-1.1.41_2dd0b3730adf47ad83ad0e3c24bd1e53e35adba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\.android\build-cache\67e0d6c38eb9c9333fdd48801e4e9b12c144e2d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\appcode\ZoomView1\app\build\intermediates\pre-dexed\debug\classes_02b74e1a6f8f0814b27a96aad6f57f4c36d2e5e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\.android\build-cache\6642750c905ec66082523bcfe04b955c6eb2d850\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\appcode\ZoomView1\app\build\intermediates\pre-dexed\debug\classes_ae2eebde6bb79181c61387876238bfffb2e9d96b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\appcode\ZoomView1\app\libs\butterknife-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="daf5472b0df6dabaceb6ad755b3812535863965a">
+        <dex dex="D:\appcode\ZoomView1\app\build\intermediates\pre-dexed\debug\butterknife-5.1.2_989d4b81a58d66b8e75fe38d9dbcb84fc404c543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\appcode\ZoomView1\app\libs\fastjson-1.1.41.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a244aa752b9e0210d0e50b5c1e11319711ed9290">
+        <dex dex="D:\appcode\ZoomView1\app\build\intermediates\pre-dexed\debug\fastjson-1.1.41_2dd0b3730adf47ad83ad0e3c24bd1e53e35adba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\.android\build-cache\df675f863244615defcb6660f265c9743f168a65\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\appcode\ZoomView1\app\build\intermediates\pre-dexed\debug\classes_a3b07b0ac7198a23dc3d65857480acfdbc457d3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\appcode\ZoomView1\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_fff2c938fc93574a7c55d46cd2a7ab3223a54b7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\appcode\ZoomView1\app\libs\xUtils-2.6.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\appcode\ZoomView1\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14_704c0b71d25637f35124a0c5ea6f6a470167dbe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\appcode\ZoomView1\app\libs\butterknife-5.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="daf5472b0df6dabaceb6ad755b3812535863965a">
+        <dex dex="D:\appcode\ZoomView1\app\build\intermediates\pre-dexed\debug\butterknife-5.1.2_989d4b81a58d66b8e75fe38d9dbcb84fc404c543.jar" />
+    </item>
+
+</items>
